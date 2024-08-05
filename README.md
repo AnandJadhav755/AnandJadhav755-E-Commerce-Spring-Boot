@@ -25,16 +25,3 @@
 * Pagination support for products
 * Add products to shopping cart
 * Shopping cart checkout
-
-
----
-
-
-## Author Info
-- Linkedin- [@Mohaiminur](https://www.linkedin.com/in/mohaiminur/)
-- Youtube- [@Mohaiminur](https://www.youtube.com/channel/UC5MlwVt5vXtpHvgDHxbgqmw)
-- Facebook- [@Mohaiminur](https://facebook.com/mohaiminur404)
-- Twitter - [@Mohaiminur](https://twitter.com/mohaiminur404)
-- Website - [Mohaiminur](https://mohaiminur.ml)
-
----
